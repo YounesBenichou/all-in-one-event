@@ -595,17 +595,22 @@ body{
   margin-bottom: 0;
   margin-top: 0;
 }
+/* .date > p:nth-child(1){ */
+.time {
+  font-size: 15px;
+}
+
 .img-left{
   position: absolute;
   left: 255px;
-  top: -7px;
+  top: 2px;
 } 
 
 
 .img-right{
   position: absolute;
   right: 255px;
-  top: -7px;
+  top: 2px;
 } 
 
 
